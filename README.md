@@ -7,6 +7,7 @@ Brain tumor detection and prediction using keras vgg-16
   <img src="./Readme_resource/Image2.png" width="800" >
 </p>
 
+![Image1](https://github.com/ashanperera201/Brain-Tumer-Detection/assets/20725200/39798034-0b0d-4662-99ef-8b75f35b1689)
 
 ## Get Started
 
